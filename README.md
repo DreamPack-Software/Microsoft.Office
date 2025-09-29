@@ -5,3 +5,4 @@ Microsoft Office is a productivity software suite, now part of the broader cloud
 
 DreamPack Software Team made this free for you!
 ## Go to [Releases](https://github.com/DreamPack-Software/Microsoft.Office/releases/) and get the version of Office, you want!
+## [Want an Alternative and Open-Source Office? Get it here at no cost!](https://github.com/DreamPack-Software/LibreOffice/)
